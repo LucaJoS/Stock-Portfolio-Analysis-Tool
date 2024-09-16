@@ -1,3 +1,5 @@
+# Personal Project
+
 Using this program you can perform the following tasks:
 
 1. Analyze the performance of a stock portfolio.
